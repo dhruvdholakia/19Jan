@@ -1,2 +1,3 @@
 logs/
 access01.txt
+*.log
